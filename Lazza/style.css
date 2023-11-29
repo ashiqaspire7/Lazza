@@ -1,0 +1,288 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#main{
+    margin-top: 96px;
+    width: 100%;
+    height: 720.04px;
+}
+#header{
+    width: 100%;
+    height: 96px;
+    background-color: black;
+    position: fixed;
+}
+#logo{
+    width: 120px;
+    height: 65.9px;
+    margin-top: 15px;
+    margin-left: 53px;
+    cursor: pointer;
+}
+.hdrctg{
+    margin-top: 34px;
+    margin-right: 8px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-family: 'Open Sans Condensed';
+    font-size: 18px;
+    float: right;
+    cursor: pointer;
+}
+.hdricon{
+    height: 20px;
+    width: 20px;
+    margin-top: 18px;
+    margin-right: 29px;
+    cursor: pointer;
+    border: none;
+    background-color: black;
+    float: right;
+    height: 23px;
+    width: 23px;
+}
+#cntctus{
+    margin-top: 34px;
+    margin-right: 62px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-family: 'Open Sans Condensed';
+    font-size: 18px;
+    float: right;
+    cursor: pointer;
+}
+#pcat{
+    padding-top: 45px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    text-align: center;
+    font-family: 'Open Sans Condensed';
+    font-size: 46px;
+}
+.cat11{
+    margin-top: 8px;
+    margin-left: 165px;
+    width: 376.66px;
+    height: 275.89px;
+    float: left;
+    cursor: pointer;
+}
+.cat12{
+    margin-top: 8px;
+    margin-left: 30px;
+    width: 376.66px;
+    height: 275.89px;
+    float: left;
+    cursor: pointer;
+}
+.category1{
+    margin-top: 20px;
+    margin-left: 265px;
+    margin-bottom: 8px;
+    list-style-type: none;
+    width: 376px;
+    height: 29px;
+    font-family: 'Open Sans Condensed';
+    font-size: 24px;
+    float: left;
+    cursor: pointer;
+}
+.category2{
+    margin-top: 20px;
+    margin-left: 28px;
+    list-style-type: none;
+    width: 376px;
+    height: 29px;
+    font-family: 'Open Sans Condensed';
+    font-size: 24px;
+    float: left;
+    cursor: pointer;
+}
+.cat21{
+    margin-top: 8px;
+    margin-left: 165px;
+    width: 376.66px;
+    height: 275.89px;
+    float: left;
+    cursor: pointer;
+}
+.catdiv{
+    width: 100%;
+    height: 285px;
+    float: left;
+    margin-top: 35px;
+}
+.cat22{
+    margin-top: 8px;
+    margin-left: 30px;
+    width: 376.66px;
+    height: 275.89px;
+    float: left;
+    cursor: pointer;
+}
+#party{
+    margin-top: 100px;
+    background-color: #be9509;
+    width: 100%;
+    height: 226px;
+    float: inline-end;
+}
+#partypng{
+    width: 1220px;
+    height: 195.39px;
+    padding-left: 150px;
+    padding-top: 20px;
+}
+#footer{
+    background-color: black;
+    width: 100%;
+    height: 220px;
+    float: inline-end;
+    position: relative;
+}
+#simonspng{
+    width: 150px;
+    height: 136.65px;
+    margin-top: 20px;
+    margin-left: 165px;
+    float: left;
+}
+#ftrhelp{
+    margin-top: 1px;
+    margin-left: 15px;
+    width: 203.33px;
+    height: 181.6px;
+    float: left;
+}
+#ftrhlp{
+    margin-top: 10px;
+    margin-left: 39px;
+    font-size: 20px;
+    color: #be9509;
+    font-family: 'Open Sans Condensed';
+    font-weight: bold;
+}
+.helpsub{
+    margin: -5;
+    padding: 0;
+    font-size: 20px;
+    list-style-type: none;
+    color: #be9509;
+    font-family: 'Open Sans Condensed';
+    cursor: pointer;
+}
+#ftraboutus{
+    margin-top: 1px;
+    width: 203.33px;
+    height: 181.6px;
+    float: left;
+}
+#ftrabt{
+    margin-top: 10px;
+    margin-left: 39px;
+    font-size: 20px;
+    color: #be9509;
+    font-family: 'Open Sans Condensed';
+    font-weight: bold;
+}
+.abtsub{
+    margin: -5;
+    padding: 0;
+    font-size: 20px;
+    list-style-type: none;
+    color: #be9509;
+    font-family: 'Open Sans Condensed';
+    cursor: pointer;
+}
+#ftrproducts{
+    margin-top: 1px;
+    width: 203.33px;
+    height: 181.6px;
+    float: left;
+}
+#ftrprod{
+    margin-top: 10px;
+    margin-left: 39px;
+    font-size: 20px;
+    color: #be9509;
+    font-family: 'Open Sans Condensed';
+    font-weight: bold;
+}
+.prodsub{
+    margin: -5;
+    padding: 0;
+    font-size: 20px;
+    list-style-type: none;
+    color: #be9509;
+    font-family: 'Open Sans Condensed';
+    cursor: pointer;
+}
+#ftrcontactus{
+    margin-top: 1px;
+    width: 203.33px;
+    height: 181.6px;
+    float: left;
+}
+#ftrcntct{
+    margin-top: 10px;
+    margin-left: 39px;
+    font-size: 20px;
+    color: #be9509;
+    font-family: 'Open Sans Condensed';
+    font-weight: bold;
+}
+.cntctsub{
+    margin: -5;
+    padding: 0;
+    font-size: 20px;
+    list-style-type: none;
+    color: #be9509;
+    font-family: 'Open Sans Condensed';
+    cursor: pointer;
+}
+#ftricon{
+    width: 30px;
+    height: 30px;
+    margin-left: 40px;
+    margin-top: -5px;
+    cursor: pointer;
+}
+.ftricons2{
+    width: 30px;
+    height: 30px;
+    margin-left: 4px;
+    cursor: pointer;
+}
+#ftrlogo{
+    height: 117.65px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 38px;
+}
+#endtag{
+    width: 100%;
+    height: 68.8px;
+    background-color: black;
+    border-top: solid 1px #666;
+    float: inline-end;
+    color: #be9509;
+}
+#end{
+    color: #ffc107;
+    font-family: 'Open Sans Condensed';
+    float: left;
+    font-weight: 500;
+    margin-top: 22px;
+    margin-left: 35px;
+}
+#waicon{
+    width: 60px;
+    height: 60px;
+    float: right;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    position: fixed;
+}
